@@ -1,0 +1,4 @@
+Pull email credentials from DB 
+Add projects page
+Resume download button
+Set up proper templates
